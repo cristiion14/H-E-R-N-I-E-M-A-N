@@ -17,6 +17,8 @@ This is my progress so far with the DirectX11 SDK:
 
 •	Rendering multiple triangle, rectangles and cubes
 
+• Depth
+
 •	Transformation: moving, rotating, scaling etc.
 
 •	Input
