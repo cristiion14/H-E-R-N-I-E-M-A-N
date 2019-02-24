@@ -8,9 +8,9 @@ The codes will be updated ASAP.
 
 
 This is my progress so far with the DirectX11 SDK:
--creating a basic window
--creating the devices and SwapChain
--Rendering a triangle
--Rendering multiple triangle, rectangles and cubes
--Transformation: moving, rotating, scaling etc.
--Input
+•	creating a basic window
+•	creating the devices and SwapChain
+•	Rendering a triangle
+•	Rendering multiple triangle, rectangles and cubes
+•	Transformation: moving, rotating, scaling etc.
+•	Input
